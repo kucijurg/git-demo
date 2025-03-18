@@ -35,7 +35,7 @@ npm run dev
 There is no tests for this project.
 
 🎅 Authors
-Rimantas: Github
+KuciJurg: Github
 
 ⚠️ License
 Distributed under the MIT License. See LICENSE.txt for more information.
